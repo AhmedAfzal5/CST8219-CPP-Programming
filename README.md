@@ -1,4 +1,4 @@
-# CST8219-C++ Programming
+# CST8219 - C++ Programming
 
 ## Description of Course
 Learn C++ building on the concepts of memory management and object-oriented programming studied in other
