@@ -1,4 +1,4 @@
-# RasterGraphic
+# RasterGraphic in C
 
 ## Demo of Running Program
 ![Assign 0 Image 1](https://github.com/AhmedAfzal5/CST8219-CPP-Programming/blob/assets/assign0-img1.PNG)
