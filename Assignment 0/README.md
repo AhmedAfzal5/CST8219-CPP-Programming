@@ -10,6 +10,6 @@ The program contains 3 functions including:
 * reporting the RasterGraphic to show the details of a GraphicElement
 
 ## Screenshots of Program
-![Assign 0 Image 1]()
-![Assign 0 Image 2]()
-![Assign 0 Image 3]()
+![Assign 0 Image 1](https://github.com/AhmedAfzal5/CST8219-CPP-Programming/blob/master/Assignment%200/Screenshots/assign0-img1.PNG)
+![Assign 0 Image 2](https://github.com/AhmedAfzal5/CST8219-CPP-Programming/blob/master/Assignment%200/Screenshots/assign0-img2.PNG)
+![Assign 0 Image 3](https://github.com/AhmedAfzal5/CST8219-CPP-Programming/blob/master/Assignment%200/Screenshots/assign0-img3.PNG)
