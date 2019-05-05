@@ -1,6 +1,6 @@
 # RasterGraphic in C++
 
-# Purpose
+## Purpose
 Holds a RasterGraphic application using a singly linked-list. As the list runs, it displays the details of each GraphicElement at 1 second intervals.
 
 The program contains 3 functions including:
